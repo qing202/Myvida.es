@@ -195,7 +195,7 @@ body{
   .pagination {
 	display: inline-block;
     position: fixed;
-    margin-bottom: 40%;
+    margin-bottom: 20%;
 	margin-right: 30%;
     text-align: center;
 	border: 1px solid #c7c7c7;
