@@ -14,7 +14,7 @@
 	margin-top: 1%;
 }
 
-/* div.gallery {
+div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
@@ -22,17 +22,8 @@
   margin-top: 3%;
   width: 25%;
   box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
-} */
+}
 
-div.gallery {
-	margin: 5px;
-	border: 1px solid #ccc;
-	float: left;
-	margin-left: 5%;
-	margin-top: 3%;
-	width: 42%;
-	box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
-  }
 
 div.gallery:hover {
   border: 1px solid #777;
