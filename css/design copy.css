@@ -178,7 +178,6 @@ p.title{
 
 .wz{
 	width: 100%;
-	padding: 15px;
 	box-sizing: border-box;
 	overflow: hidden;
 }
@@ -471,6 +470,14 @@ p.title{
 
 .line {
 	margin-top: 2%;
+	margin-left: 10%;
+	width: 80%;
+	 height: 2px;
+	 background-color: #9ea7aa;
+	 background:linear-gradient(244deg,rgba(255,255,255,0) 0%,#718378 50%,rgba(255,255,255,0) 100%)
+}
+
+.line3 {
 	margin-left: 10%;
 	width: 80%;
 	 height: 2px;
