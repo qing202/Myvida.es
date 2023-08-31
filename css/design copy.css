@@ -351,6 +351,20 @@ p.title{
   }
   
   
+  .nav ul li:hover{
+	background-color: #89a040;
+}
+
+.dropbtn {
+	background-color: #506820;
+	color: white;
+	padding: 16px;
+	font-size: 16.5px;
+	border: none;
+	cursor: pointer;
+  }
+  
+  
   li a:hover, .dropdown:hover .dropbtn {
 	background-color: #89a040;
   }
@@ -368,6 +382,11 @@ p.title{
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	z-index: 1;
   }
+
+  .nav img{
+	margin-left: 30px;
+	margin-top: 3px;
+}
   
   .dropdown-content a {
 	color: black;
@@ -377,7 +396,7 @@ p.title{
 	text-align: left;
   }
   
-  .dropdown-content a:hover {background-color: #506820;}
+  .dropdown-content a:hover {background-color: #6c8126;}
   
   .dropdown:hover .dropdown-content {
 	display: block;
