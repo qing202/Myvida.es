@@ -102,6 +102,7 @@ div.desc1 {
 }
 
 div.desc {
+	min-height: 130px;
 	line-height: 30px;
 	height: 50%;
 	margin-top: 5%;
